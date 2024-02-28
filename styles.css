@@ -1,0 +1,22 @@
+.indexlist {
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    list-style-type: none;
+    padding: 0;
+}
+
+.name {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    text-align: center;
+}
